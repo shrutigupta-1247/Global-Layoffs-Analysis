@@ -1,6 +1,4 @@
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/d3c21146-de72-4e70-88d8-0b96405767e6" /># Global Layoffs Data Analysis
-
-## Overview
+# Global Layoffs Data Analysi## Overview
 
 This project presents an exploratory data analysis of global layoffs across companies, industries, and countries. The objective is to understand patterns in workforce reductions, identify the most affected sectors, and analyze how layoffs evolved over time.
 The analysis is performed using Python and focuses on deriving meaningful insights through data cleaning, aggregation, and visualization.
