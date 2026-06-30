@@ -1,4 +1,6 @@
-# Global Layoffs Data Analysi
+# Global Layoffs Data Analysis
+
+----
 
 ## Overview
 
